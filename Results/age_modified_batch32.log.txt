@@ -1,0 +1,500 @@
+1/100 (114.31s - 11430.49s remaining)Epoch: 1
+                    	Train Loss: 0.152
+                    	Test Loss:0.133
+                    	Best Test Loss: 100.0000
+Age MAE::                                         6.35
+2/100 (188.04s - 9307.98s remaining)Epoch: 2
+                    	Train Loss: 0.127
+                    	Test Loss:0.122
+                    	Best Test Loss: 0.1335
+Age MAE::                                         6.48
+3/100 (261.51s - 8542.65s remaining)Epoch: 3
+                    	Train Loss: 0.117
+                    	Test Loss:0.124
+                    	Best Test Loss: 0.1224
+Age MAE::                                         7.00
+4/100 (334.42s - 8109.63s remaining)Epoch: 4
+                    	Train Loss: 0.109
+                    	Test Loss:0.119
+                    	Best Test Loss: 0.1224
+Age MAE::                                         6.40
+5/100 (408.68s - 7846.64s remaining)Epoch: 5
+                    	Train Loss: 0.103
+                    	Test Loss:0.113
+                    	Best Test Loss: 0.1189
+Age MAE::                                         6.64
+6/100 (482.67s - 7642.21s remaining)Epoch: 6
+                    	Train Loss: 0.096
+                    	Test Loss:0.109
+                    	Best Test Loss: 0.1134
+Age MAE::                                         6.58
+7/100 (557.84s - 7490.98s remaining)Epoch: 7
+                    	Train Loss: 0.090
+                    	Test Loss:0.112
+                    	Best Test Loss: 0.1095
+Age MAE::                                         6.57
+8/100 (632.68s - 7354.86s remaining)Epoch: 8
+                    	Train Loss: 0.085
+                    	Test Loss:0.106
+                    	Best Test Loss: 0.1095
+Age MAE::                                         6.50
+9/100 (707.14s - 7228.53s remaining)Epoch: 9
+                    	Train Loss: 0.080
+                    	Test Loss:0.108
+                    	Best Test Loss: 0.1060
+Age MAE::                                         6.51
+10/100 (780.62s - 7103.61s remaining)Epoch: 10
+                    	Train Loss: 0.076
+                    	Test Loss:0.103
+                    	Best Test Loss: 0.1060
+Age MAE::                                         6.51
+11/100 (855.17s - 6996.80s remaining)Epoch: 11
+                    	Train Loss: 0.071
+                    	Test Loss:0.105
+                    	Best Test Loss: 0.1033
+Age MAE::                                         6.44
+12/100 (929.96s - 6897.18s remaining)Epoch: 12
+                    	Train Loss: 0.068
+                    	Test Loss:0.107
+                    	Best Test Loss: 0.1033
+Age MAE::                                         7.02
+13/100 (1004.12s - 6797.12s remaining)Epoch: 13
+                    	Train Loss: 0.066
+                    	Test Loss:0.102
+                    	Best Test Loss: 0.1033
+Age MAE::                                         6.50
+14/100 (1078.92s - 6704.73s remaining)Epoch: 14
+                    	Train Loss: 0.062
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.1015
+Age MAE::                                         6.70
+15/100 (1153.10s - 6611.13s remaining)Epoch: 15
+                    	Train Loss: 0.060
+                    	Test Loss:0.102
+                    	Best Test Loss: 0.1005
+Age MAE::                                         6.61
+16/100 (1227.42s - 6520.65s remaining)Epoch: 16
+                    	Train Loss: 0.057
+                    	Test Loss:0.104
+                    	Best Test Loss: 0.1005
+Age MAE::                                         6.49
+17/100 (1301.54s - 6431.15s remaining)Epoch: 17
+                    	Train Loss: 0.055
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.1005
+Age MAE::                                         6.60
+18/100 (1375.45s - 6342.35s remaining)Epoch: 18
+                    	Train Loss: 0.052
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.1005
+Age MAE::                                         6.67
+19/100 (1450.10s - 6258.34s remaining)Epoch: 19
+                    	Train Loss: 0.052
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.1005
+Age MAE::                                         6.57
+20/100 (1524.65s - 6174.85s remaining)Epoch: 20
+                    	Train Loss: 0.051
+                    	Test Loss:0.103
+                    	Best Test Loss: 0.1005
+Age MAE::                                         6.67
+21/100 (1598.69s - 6090.26s remaining)Epoch: 21
+                    	Train Loss: 0.049
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.1005
+Age MAE::                                         6.69
+22/100 (1673.67s - 6010.01s remaining)Epoch: 22
+                    	Train Loss: 0.048
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.1000
+Age MAE::                                         6.60
+23/100 (1747.33s - 5925.73s remaining)Epoch: 23
+                    	Train Loss: 0.046
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.1000
+Age MAE::                                         6.76
+24/100 (1821.30s - 5843.33s remaining)Epoch: 24
+                    	Train Loss: 0.045
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0992
+Age MAE::                                         6.66
+25/100 (1895.20s - 5761.41s remaining)Epoch: 25
+                    	Train Loss: 0.044
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0992
+Age MAE::                                         6.54
+26/100 (1969.22s - 5680.44s remaining)Epoch: 26
+                    	Train Loss: 0.044
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0983
+Age MAE::                                         6.66
+27/100 (2043.01s - 5599.37s remaining)Epoch: 27
+                    	Train Loss: 0.043
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0976
+Age MAE::                                         6.52
+28/100 (2116.73s - 5518.62s remaining)Epoch: 28
+                    	Train Loss: 0.042
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.64
+29/100 (2190.41s - 5438.27s remaining)Epoch: 29
+                    	Train Loss: 0.042
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.57
+30/100 (2263.82s - 5357.70s remaining)Epoch: 30
+                    	Train Loss: 0.041
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.42
+31/100 (2336.93s - 5276.94s remaining)Epoch: 31
+                    	Train Loss: 0.039
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.59
+32/100 (2410.42s - 5197.46s remaining)Epoch: 32
+                    	Train Loss: 0.039
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.43
+33/100 (2483.93s - 5118.41s remaining)Epoch: 33
+                    	Train Loss: 0.039
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.43
+34/100 (2557.57s - 5039.92s remaining)Epoch: 34
+                    	Train Loss: 0.038
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.48
+35/100 (2631.10s - 4961.50s remaining)Epoch: 35
+                    	Train Loss: 0.038
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.47
+36/100 (2704.43s - 4883.00s remaining)Epoch: 36
+                    	Train Loss: 0.037
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.57
+37/100 (2777.77s - 4804.78s remaining)Epoch: 37
+                    	Train Loss: 0.037
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0975
+Age MAE::                                         6.56
+38/100 (2853.33s - 4730.52s remaining)Epoch: 38
+                    	Train Loss: 0.037
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0974
+Age MAE::                                         6.56
+39/100 (2927.46s - 4653.91s remaining)Epoch: 39
+                    	Train Loss: 0.036
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0973
+Age MAE::                                         6.47
+40/100 (3000.58s - 4575.88s remaining)Epoch: 40
+                    	Train Loss: 0.036
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0973
+Age MAE::                                         6.38
+41/100 (3074.28s - 4498.95s remaining)Epoch: 41
+                    	Train Loss: 0.036
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0973
+Age MAE::                                         6.50
+42/100 (3148.10s - 4422.32s remaining)Epoch: 42
+                    	Train Loss: 0.035
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.60
+43/100 (3223.51s - 4347.99s remaining)Epoch: 43
+                    	Train Loss: 0.035
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.48
+44/100 (3301.85s - 4277.40s remaining)Epoch: 44
+                    	Train Loss: 0.034
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.40
+45/100 (3377.84s - 4203.53s remaining)Epoch: 45
+                    	Train Loss: 0.034
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.51
+46/100 (3452.77s - 4128.31s remaining)Epoch: 46
+                    	Train Loss: 0.033
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.39
+47/100 (3528.75s - 4054.30s remaining)Epoch: 47
+                    	Train Loss: 0.033
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.26
+48/100 (3603.35s - 3978.70s remaining)Epoch: 48
+                    	Train Loss: 0.033
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.44
+49/100 (3676.93s - 3902.05s remaining)Epoch: 49
+                    	Train Loss: 0.033
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.44
+50/100 (3750.23s - 3825.23s remaining)Epoch: 50
+                    	Train Loss: 0.033
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.50
+51/100 (3823.63s - 3748.66s remaining)Epoch: 51
+                    	Train Loss: 0.032
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.33
+52/100 (3896.77s - 3671.95s remaining)Epoch: 52
+                    	Train Loss: 0.031
+                    	Test Loss:0.096
+                    	Best Test Loss: 0.0966
+Age MAE::                                         6.40
+53/100 (3970.61s - 3596.03s remaining)Epoch: 53
+                    	Train Loss: 0.032
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.33
+54/100 (4044.82s - 3520.49s remaining)Epoch: 54
+                    	Train Loss: 0.031
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.50
+55/100 (4118.36s - 3444.45s remaining)Epoch: 55
+                    	Train Loss: 0.031
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.36
+56/100 (4191.56s - 3368.22s remaining)Epoch: 56
+                    	Train Loss: 0.031
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.49
+57/100 (4264.68s - 3292.04s remaining)Epoch: 57
+                    	Train Loss: 0.030
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.37
+58/100 (4337.66s - 3215.85s remaining)Epoch: 58
+                    	Train Loss: 0.030
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.43
+59/100 (4412.13s - 3140.84s remaining)Epoch: 59
+                    	Train Loss: 0.030
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.46
+60/100 (4486.88s - 3066.03s remaining)Epoch: 60
+                    	Train Loss: 0.030
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.41
+61/100 (4559.68s - 2989.96s remaining)Epoch: 61
+                    	Train Loss: 0.030
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.30
+62/100 (4633.17s - 2914.41s remaining)Epoch: 62
+                    	Train Loss: 0.029
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.35
+63/100 (4706.24s - 2838.69s remaining)Epoch: 63
+                    	Train Loss: 0.029
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.37
+64/100 (4780.01s - 2763.45s remaining)Epoch: 64
+                    	Train Loss: 0.029
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.42
+65/100 (4853.99s - 2688.36s remaining)Epoch: 65
+                    	Train Loss: 0.029
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.36
+66/100 (4928.69s - 2613.70s remaining)Epoch: 66
+                    	Train Loss: 0.028
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.28
+67/100 (5002.85s - 2538.76s remaining)Epoch: 67
+                    	Train Loss: 0.029
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.31
+68/100 (5076.58s - 2463.63s remaining)Epoch: 68
+                    	Train Loss: 0.028
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.38
+69/100 (5149.85s - 2388.34s remaining)Epoch: 69
+                    	Train Loss: 0.028
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.40
+70/100 (5223.92s - 2313.45s remaining)Epoch: 70
+                    	Train Loss: 0.028
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.29
+71/100 (5298.91s - 2238.98s remaining)Epoch: 71
+                    	Train Loss: 0.027
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.34
+72/100 (5373.46s - 2164.31s remaining)Epoch: 72
+                    	Train Loss: 0.027
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.41
+73/100 (5447.03s - 2089.27s remaining)Epoch: 73
+                    	Train Loss: 0.027
+                    	Test Loss:0.102
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.25
+74/100 (5521.56s - 2014.62s remaining)Epoch: 74
+                    	Train Loss: 0.027
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.37
+75/100 (5595.42s - 1939.74s remaining)Epoch: 75
+                    	Train Loss: 0.027
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.44
+76/100 (5669.82s - 1865.07s remaining)Epoch: 76
+                    	Train Loss: 0.026
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.39
+77/100 (5744.30s - 1790.43s remaining)Epoch: 77
+                    	Train Loss: 0.026
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.30
+78/100 (5819.46s - 1715.99s remaining)Epoch: 78
+                    	Train Loss: 0.026
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.32
+79/100 (5895.54s - 1641.80s remaining)Epoch: 79
+                    	Train Loss: 0.026
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.32
+80/100 (5971.65s - 1567.56s remaining)Epoch: 80
+                    	Train Loss: 0.026
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.33
+81/100 (6045.34s - 1492.68s remaining)Epoch: 81
+                    	Train Loss: 0.025
+                    	Test Loss:0.097
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.46
+82/100 (6119.09s - 1417.84s remaining)Epoch: 82
+                    	Train Loss: 0.026
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.24
+83/100 (6194.53s - 1343.39s remaining)Epoch: 83
+                    	Train Loss: 0.025
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.35
+84/100 (6276.90s - 1270.32s remaining)Epoch: 84
+                    	Train Loss: 0.025
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.34
+85/100 (6352.59s - 1195.78s remaining)Epoch: 85
+                    	Train Loss: 0.025
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.37
+86/100 (6430.89s - 1121.67s remaining)Epoch: 86
+                    	Train Loss: 0.025
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.42
+87/100 (6509.86s - 1047.56s remaining)Epoch: 87
+                    	Train Loss: 0.025
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.30
+88/100 (6585.80s - 972.90s remaining)Epoch: 88
+                    	Train Loss: 0.024
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.28
+89/100 (6660.29s - 898.02s remaining)Epoch: 89
+                    	Train Loss: 0.024
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.31
+90/100 (6735.89s - 823.28s remaining)Epoch: 90
+                    	Train Loss: 0.024
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.37
+91/100 (6810.94s - 748.46s remaining)Epoch: 91
+                    	Train Loss: 0.024
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.31
+92/100 (6884.88s - 673.52s remaining)Epoch: 92
+                    	Train Loss: 0.024
+                    	Test Loss:0.102
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.25
+93/100 (6958.66s - 598.59s remaining)Epoch: 93
+                    	Train Loss: 0.024
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.29
+94/100 (7032.91s - 523.73s remaining)Epoch: 94
+                    	Train Loss: 0.025
+                    	Test Loss:0.101
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.31
+95/100 (7107.07s - 448.87s remaining)Epoch: 95
+                    	Train Loss: 0.024
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.39
+96/100 (7180.61s - 373.99s remaining)Epoch: 96
+                    	Train Loss: 0.023
+                    	Test Loss:0.100
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.33
+97/100 (7253.66s - 299.12s remaining)Epoch: 97
+                    	Train Loss: 0.024
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.42
+98/100 (7327.14s - 224.30s remaining)Epoch: 98
+                    	Train Loss: 0.024
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.36
+99/100 (7400.72s - 149.51s remaining)Epoch: 99
+                    	Train Loss: 0.023
+                    	Test Loss:0.098
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.42
+100/100 (7474.19s - 74.74s remaining)Epoch: 100
+                    	Train Loss: 0.023
+                    	Test Loss:0.099
+                    	Best Test Loss: 0.0962
+Age MAE::                                         6.38

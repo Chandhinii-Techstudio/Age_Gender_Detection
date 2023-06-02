@@ -1,0 +1,400 @@
+1/80 (159.95s - 12795.72s remaining)Epoch: 1
+                    	Train Loss: 0.543
+                    	Test Loss:0.450
+                    	Best Test Loss: 0.4498
+Gender Accuracy: 78.54
+2/80 (224.10s - 8852.07s remaining)Epoch: 2
+                    	Train Loss: 0.413
+                    	Test Loss:0.373
+                    	Best Test Loss: 0.3727
+Gender Accuracy: 83.02
+3/80 (289.04s - 7515.13s remaining)Epoch: 3
+                    	Train Loss: 0.348
+                    	Test Loss:0.363
+                    	Best Test Loss: 0.3633
+Gender Accuracy: 84.12
+4/80 (353.59s - 6806.69s remaining)Epoch: 4
+                    	Train Loss: 0.301
+                    	Test Loss:0.389
+                    	Best Test Loss: 0.3633
+Gender Accuracy: 83.52
+5/80 (417.64s - 6348.13s remaining)Epoch: 5
+                    	Train Loss: 0.245
+                    	Test Loss:0.358
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.34
+6/80 (482.25s - 6028.14s remaining)Epoch: 6
+                    	Train Loss: 0.198
+                    	Test Loss:0.376
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.88
+7/80 (547.26s - 5785.28s remaining)Epoch: 7
+                    	Train Loss: 0.148
+                    	Test Loss:0.396
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.56
+8/80 (611.58s - 5580.70s remaining)Epoch: 8
+                    	Train Loss: 0.121
+                    	Test Loss:0.434
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.16
+9/80 (676.04s - 5408.30s remaining)Epoch: 9
+                    	Train Loss: 0.088
+                    	Test Loss:0.519
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.03
+10/80 (740.25s - 5255.78s remaining)Epoch: 10
+                    	Train Loss: 0.076
+                    	Test Loss:0.540
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.49
+11/80 (804.70s - 5120.82s remaining)Epoch: 11
+                    	Train Loss: 0.065
+                    	Test Loss:0.514
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.90
+12/80 (869.41s - 4999.08s remaining)Epoch: 12
+                    	Train Loss: 0.055
+                    	Test Loss:0.560
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.67
+13/80 (933.85s - 4884.77s remaining)Epoch: 13
+                    	Train Loss: 0.055
+                    	Test Loss:0.522
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.99
+14/80 (997.85s - 4775.40s remaining)Epoch: 14
+                    	Train Loss: 0.046
+                    	Test Loss:0.575
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.92
+15/80 (1063.02s - 4677.27s remaining)Epoch: 15
+                    	Train Loss: 0.042
+                    	Test Loss:0.567
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.37
+16/80 (1127.48s - 4580.38s remaining)Epoch: 16
+                    	Train Loss: 0.039
+                    	Test Loss:0.601
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.77
+17/80 (1191.78s - 4486.68s remaining)Epoch: 17
+                    	Train Loss: 0.036
+                    	Test Loss:0.689
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 84.75
+18/80 (1255.55s - 4394.42s remaining)Epoch: 18
+                    	Train Loss: 0.034
+                    	Test Loss:0.598
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.34
+19/80 (1320.97s - 4310.53s remaining)Epoch: 19
+                    	Train Loss: 0.030
+                    	Test Loss:0.720
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.23
+20/80 (1386.97s - 4230.27s remaining)Epoch: 20
+                    	Train Loss: 0.034
+                    	Test Loss:0.625
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.30
+21/80 (1451.23s - 4146.38s remaining)Epoch: 21
+                    	Train Loss: 0.024
+                    	Test Loss:0.652
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.34
+22/80 (1515.73s - 4064.92s remaining)Epoch: 22
+                    	Train Loss: 0.025
+                    	Test Loss:0.635
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.88
+23/80 (1579.82s - 3983.89s remaining)Epoch: 23
+                    	Train Loss: 0.027
+                    	Test Loss:0.593
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.30
+24/80 (1645.53s - 3908.14s remaining)Epoch: 24
+                    	Train Loss: 0.030
+                    	Test Loss:0.639
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.16
+25/80 (1713.12s - 3837.38s remaining)Epoch: 25
+                    	Train Loss: 0.026
+                    	Test Loss:0.693
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.09
+26/80 (1777.62s - 3760.36s remaining)Epoch: 26
+                    	Train Loss: 0.027
+                    	Test Loss:0.781
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.94
+27/80 (1842.19s - 3684.37s remaining)Epoch: 27
+                    	Train Loss: 0.030
+                    	Test Loss:0.623
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.42
+28/80 (1906.29s - 3608.33s remaining)Epoch: 28
+                    	Train Loss: 0.020
+                    	Test Loss:0.735
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.99
+29/80 (1970.60s - 3533.49s remaining)Epoch: 29
+                    	Train Loss: 0.025
+                    	Test Loss:0.710
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.27
+30/80 (2035.04s - 3459.58s remaining)Epoch: 30
+                    	Train Loss: 0.020
+                    	Test Loss:0.806
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.41
+31/80 (2100.02s - 3387.12s remaining)Epoch: 31
+                    	Train Loss: 0.022
+                    	Test Loss:0.693
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.05
+32/80 (2165.67s - 3316.18s remaining)Epoch: 32
+                    	Train Loss: 0.019
+                    	Test Loss:0.863
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.16
+33/80 (2230.98s - 3245.06s remaining)Epoch: 33
+                    	Train Loss: 0.022
+                    	Test Loss:0.729
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.20
+34/80 (2296.83s - 3175.03s remaining)Epoch: 34
+                    	Train Loss: 0.020
+                    	Test Loss:0.953
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.16
+35/80 (2361.59s - 3103.81s remaining)Epoch: 35
+                    	Train Loss: 0.027
+                    	Test Loss:0.596
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.62
+36/80 (2427.19s - 3033.99s remaining)Epoch: 36
+                    	Train Loss: 0.018
+                    	Test Loss:0.936
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.62
+37/80 (2491.54s - 2962.91s remaining)Epoch: 37
+                    	Train Loss: 0.016
+                    	Test Loss:0.880
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.05
+38/80 (2555.80s - 2892.09s remaining)Epoch: 38
+                    	Train Loss: 0.025
+                    	Test Loss:0.654
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.41
+39/80 (2620.64s - 2822.23s remaining)Epoch: 39
+                    	Train Loss: 0.018
+                    	Test Loss:0.816
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.83
+40/80 (2686.05s - 2753.20s remaining)Epoch: 40
+                    	Train Loss: 0.012
+                    	Test Loss:0.735
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.83
+41/80 (2750.45s - 2683.36s remaining)Epoch: 41
+                    	Train Loss: 0.016
+                    	Test Loss:0.788
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.45
+42/80 (2814.16s - 2613.15s remaining)Epoch: 42
+                    	Train Loss: 0.019
+                    	Test Loss:0.719
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.76
+43/80 (2878.00s - 2543.35s remaining)Epoch: 43
+                    	Train Loss: 0.016
+                    	Test Loss:1.004
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.27
+44/80 (2941.87s - 2473.84s remaining)Epoch: 44
+                    	Train Loss: 0.016
+                    	Test Loss:0.726
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.08
+45/80 (3006.68s - 2405.35s remaining)Epoch: 45
+                    	Train Loss: 0.015
+                    	Test Loss:1.003
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.25
+46/80 (3076.48s - 2340.80s remaining)Epoch: 46
+                    	Train Loss: 0.017
+                    	Test Loss:0.915
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.52
+47/80 (3144.48s - 2274.73s remaining)Epoch: 47
+                    	Train Loss: 0.011
+                    	Test Loss:1.025
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.42
+48/80 (3213.57s - 2209.33s remaining)Epoch: 48
+                    	Train Loss: 0.018
+                    	Test Loss:0.798
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.63
+49/80 (3284.80s - 2145.17s remaining)Epoch: 49
+                    	Train Loss: 0.014
+                    	Test Loss:0.839
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.66
+50/80 (3354.19s - 2079.60s remaining)Epoch: 50
+                    	Train Loss: 0.016
+                    	Test Loss:0.783
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.34
+51/80 (3424.14s - 2014.20s remaining)Epoch: 51
+                    	Train Loss: 0.013
+                    	Test Loss:0.749
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.13
+52/80 (3494.25s - 1948.72s remaining)Epoch: 52
+                    	Train Loss: 0.012
+                    	Test Loss:0.792
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.87
+53/80 (3564.54s - 1883.15s remaining)Epoch: 53
+                    	Train Loss: 0.017
+                    	Test Loss:0.737
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.33
+54/80 (3633.97s - 1816.98s remaining)Epoch: 54
+                    	Train Loss: 0.013
+                    	Test Loss:0.906
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.50
+55/80 (3703.75s - 1750.86s remaining)Epoch: 55
+                    	Train Loss: 0.016
+                    	Test Loss:0.815
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.09
+56/80 (3770.70s - 1683.35s remaining)Epoch: 56
+                    	Train Loss: 0.013
+                    	Test Loss:0.720
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.09
+57/80 (3836.00s - 1615.16s remaining)Epoch: 57
+                    	Train Loss: 0.011
+                    	Test Loss:0.961
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.37
+58/80 (3900.55s - 1546.77s remaining)Epoch: 58
+                    	Train Loss: 0.013
+                    	Test Loss:0.950
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.60
+59/80 (3965.03s - 1478.48s remaining)Epoch: 59
+                    	Train Loss: 0.014
+                    	Test Loss:0.988
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.62
+60/80 (4029.80s - 1410.43s remaining)Epoch: 60
+                    	Train Loss: 0.011
+                    	Test Loss:1.089
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.06
+61/80 (4094.46s - 1342.45s remaining)Epoch: 61
+                    	Train Loss: 0.014
+                    	Test Loss:1.002
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.59
+62/80 (4158.72s - 1274.45s remaining)Epoch: 62
+                    	Train Loss: 0.014
+                    	Test Loss:0.928
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.62
+63/80 (4223.54s - 1206.72s remaining)Epoch: 63
+                    	Train Loss: 0.015
+                    	Test Loss:0.747
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.90
+64/80 (4288.69s - 1139.18s remaining)Epoch: 64
+                    	Train Loss: 0.012
+                    	Test Loss:0.790
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.05
+65/80 (4354.90s - 1071.97s remaining)Epoch: 65
+                    	Train Loss: 0.010
+                    	Test Loss:1.042
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.15
+66/80 (4421.37s - 1004.86s remaining)Epoch: 66
+                    	Train Loss: 0.010
+                    	Test Loss:0.988
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.56
+67/80 (4486.15s - 937.40s remaining)Epoch: 67
+                    	Train Loss: 0.015
+                    	Test Loss:0.737
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 85.70
+68/80 (4552.21s - 870.28s remaining)Epoch: 68
+                    	Train Loss: 0.009
+                    	Test Loss:0.950
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.80
+69/80 (4619.27s - 803.35s remaining)Epoch: 69
+                    	Train Loss: 0.010
+                    	Test Loss:0.871
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.41
+70/80 (4685.90s - 736.36s remaining)Epoch: 70
+                    	Train Loss: 0.008
+                    	Test Loss:0.964
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.05
+71/80 (4752.40s - 669.35s remaining)Epoch: 71
+                    	Train Loss: 0.013
+                    	Test Loss:0.896
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.66
+72/80 (4819.87s - 602.48s remaining)Epoch: 72
+                    	Train Loss: 0.012
+                    	Test Loss:0.994
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.80
+73/80 (4887.79s - 535.65s remaining)Epoch: 73
+                    	Train Loss: 0.008
+                    	Test Loss:1.448
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.15
+74/80 (4955.50s - 468.76s remaining)Epoch: 74
+                    	Train Loss: 0.013
+                    	Test Loss:0.895
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.27
+75/80 (5023.28s - 401.86s remaining)Epoch: 75
+                    	Train Loss: 0.013
+                    	Test Loss:0.863
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.23
+76/80 (5086.98s - 334.67s remaining)Epoch: 76
+                    	Train Loss: 0.008
+                    	Test Loss:0.953
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.23
+77/80 (5150.58s - 267.56s remaining)Epoch: 77
+                    	Train Loss: 0.014
+                    	Test Loss:0.735
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 87.58
+78/80 (5215.15s - 200.58s remaining)Epoch: 78
+                    	Train Loss: 0.010
+                    	Test Loss:0.860
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.48
+79/80 (5281.43s - 133.71s remaining)Epoch: 79
+                    	Train Loss: 0.010
+                    	Test Loss:1.078
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 84.65
+80/80 (5345.93s - 66.82s remaining)Epoch: 80
+                    	Train Loss: 0.012
+                    	Test Loss:1.030
+                    	Best Test Loss: 0.3583
+Gender Accuracy: 86.41
