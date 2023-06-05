@@ -1,0 +1,21 @@
+# Capstone Project
+- This code utilizes OpenCV to perform finger counting using hand segmentation from a live video feed.
+- It calculates the number of fingers visible in the hand region based on specific conditions.
+- The code uses background subtraction and thresholding techniques to detect the hand.
+- It applies image processing techniques such as blurring and contour detection to isolate the hand region.
+- The hand region is then analyzed to count the number of fingers based on the following conditions:
+- The contour region is not the very bottom of the hand area (the wrist).
+- The number of points along the contour does not exceed 25% of the circumference of the circular ROI.
+- The code calculates the Euclidean distance between the center of the hand and the most extreme points of the hand's convex hull.
+- It uses the maximum distance to determine the radius of a circular region of interest (ROI) around the hand.
+- Within the ROI, the code identifies and counts the fingers based on their position relative to the center of the hand and the wrist area.
+- The count of fingers is displayed on the video feed.
+- The code continuously updates the count as long as the hand is detected and meets the conditions.
+- The user can terminate the program by pressing the Esc key.
+- The code assumes a camera is connected and accessible.
+- It flips the video feed horizontally to avoid a mirrored view.
+- The Region of Interest (ROI) is defined to focus on the hand area.
+- The code calculates the average background for the first 60 frames to account for lighting changes.
+- Afterward, it segments the hand based on the computed background and processes the segmented region.
+- The code displays the thresholded hand image to visualize the segmentation and the circular ROI.
+- The program releases the camera and closes all windows when terminated.
