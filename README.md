@@ -4,8 +4,8 @@
 - The code uses background subtraction and thresholding techniques to detect the hand.
 - It applies image processing techniques such as blurring and contour detection to isolate the hand region.
 - The hand region is then analyzed to count the number of fingers based on the following conditions:
-- The contour region is not the very bottom of the hand area (the wrist).
-- The number of points along the contour does not exceed 25% of the circumference of the circular ROI.
+-- The contour region is not the very bottom of the hand area (the wrist).
+-- The number of points along the contour does not exceed 25% of the circumference of the circular ROI.
 - The code calculates the Euclidean distance between the center of the hand and the most extreme points of the hand's convex hull.
 - It uses the maximum distance to determine the radius of a circular region of interest (ROI) around the hand.
 - Within the ROI, the code identifies and counts the fingers based on their position relative to the center of the hand and the wrist area.
