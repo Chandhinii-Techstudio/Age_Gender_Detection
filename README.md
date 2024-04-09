@@ -1,4 +1,4 @@
-# Age and Gender Prediction with UTKFace Dataset
+# Age and Gender Prediction using RESNET34 model with UTKFace Dataset
 This project aims to predict the age and gender of individuals using the UTKFace dataset.
 It utilizes the MTCNN face detection algorithm to extract facial features and trains a pre-trained ResNet-34 model for age prediction and gender classification.
 
