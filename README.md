@@ -1,0 +1,18 @@
+# Age and Gender Detection using Stacking Ensemble method
+This project is an enhancement of the branch project "Age_Gender_Project-using-RESNET34-model". This Stacking ensemble project aims to predict the age and gender of a person using 4 customized Deep learning models. The four models are VGG16, RESNET34, Densenet121 and Efficientnetb0. The UTKFace dataset is used for training these four models. They utilize the concept of the MTCNN face detection algorithm to extract facial features and then the extracted features are used as an input to train these models. Finally these models perform age and gender classification on the unseen test dataset.
+## Dataset
+The Folder "MTCNN Dataset Preprocess" under the branch "Age_Gender_Project-using-RESNET34-model" contains code for Dataset preprocess which performs MTCNN feature extraction from UTKFace dataset.
+## Train and Test
+The Folder "Four individual models" contains four models training script for both age and gender. The age training codes are "age_densenet121.py", "age_efficientnetb0.py", "age_resnet34.py", "age_vgg16.py" and the gender training codes are "gen_densenet121.py", "gen_efficientnetb0.py", "gen_resnet34.py", "gen_vgg16.py". The MTCNN extracted features are used as an input to a pretrained VGG16, RESNET34, Efficientnetb0 and Densenet121 model with modification in intermediate layers according to age and gender prediction. Then the trained model are used to predict on the evaluation dataset and the Mean absolute error for age and Accuracy for gender is estimated.
+The Folder "Stacking ensemble models" contains age and gender Stacking ensemble codes to train Meta model. They are "stacking_age.py" and "stacking_gender.py" for age and gender respectively. In this script, they load the four trained model checkpoints then collect the prediction from four trained models ensemble them using stacking ensemble method. This ensemble method is performed by Decision Tree Classifier for gender and Decision Tree Regressor for age. Thus the Decision tree model acts as meta model which is trained on all four predictions with respect to labels(ground truth) and the checkpoints of meta models are saved. Then the trained meta model are used to predict on the evaluation dataset and the Mean absolute error for age and Accuracy for gender is estimated.
+## Performance metrics
+The Folder "Stacking ensemble results" contains the output log files. The Gender Accuracy and Age's Mean absolute error of stacking method are found in the file "stacking-dt-gender-final.log" & "stacking-dt-age-final.log" respectively.
+In this folders the csv files containes the prediction for age and gender by four models in a dataframe format as "final_dataframe_age.csv" and "final_dataframe_gender.csv" which is used as an input to DT meta model.
+## Inference part
+The Folder "Ensemble_inference" contain file "age_inf.py" and "gen_inf.py" which loads the four individual models and meta model checkpoints, then fetch new unseen inference image from test dataset/webcam image and extract MTCNN feature then performes real time prediction using the pretrained models. Using file "app.py" the image from webcam are fetched and inference part run to predict the age and gender in real-time. The "Dockerfile" and "requirements.txt" sets the environment compatible for the prediction of age and gender.
+## Conclusion
+This project supports to combine the predictions of the four customized and trained deep learning models using Stacking ensemble method. Thereby utilizing Decision tree as a meta model to train on the ensemble prediction outputs and provide final ensembled prediction. Thus by performing the ensembling to achieve better accuracy and MAE of gender and age. 
+
+
+
+
