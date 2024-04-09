@@ -1,0 +1,9 @@
+torch 
+torchvision
+opencv-contrib-python
+opencv-python
+pandas
+flask
+flask_cors
+joblib
+scikit-learn
