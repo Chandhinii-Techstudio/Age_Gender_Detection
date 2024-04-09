@@ -11,7 +11,7 @@ The Folder "MTCNN Dataset Preprocess" under the branch "Age_Gender_Project-using
 ## Inference part
 The Folder "Ensemble_inference" contain file "age_inf.py" and "gen_inf.py" which loads the four individual models and meta model checkpoints, then fetch new unseen inference image from test dataset/webcam image and extract MTCNN feature then performes real time prediction using the pretrained models. Using file "app.py" the image from webcam are fetched and inference part run to predict the age and gender in real-time. The "Dockerfile" and "requirements.txt" sets the environment compatible for the prediction of age and gender.
 ## Conclusion
-This project supports to combine the predictions of the four customized and trained deep learning models using Stacking ensemble method. Thereby utilizing Decision tree as a meta model to train on the ensemble prediction outputs and provide final ensembled prediction. Thus by performing the ensembling to achieve better accuracy and MAE of gender and age. 
+This project supports to combine the predictions of the four customized and trained deep learning models using Stacking ensemble method. Thereby, utilizing Decision tree as a meta model to train on the prediction outputs and provide a final ensembled prediction. Thus, the improved results of accuracy and MAE of gender and age achieved by the ensembling method. 
 
 
 
