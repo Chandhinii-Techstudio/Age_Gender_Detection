@@ -1,0 +1,138 @@
+14.0s 1 [IPKernelApp] WARNING | Error in loading extension: bq_stats
+14.0s 2 Check your config files in /root/.ipython/profile_default
+14.0s 3 Traceback (most recent call last):
+14.0s 4 File "/opt/conda/lib/python3.10/site-packages/IPython/core/shellapp.py", line 282, in init_extensions
+14.0s 5 self.shell.extension_manager.load_extension(ext)
+14.0s 6 File "/opt/conda/lib/python3.10/site-packages/IPython/core/extensions.py", line 76, in load_extension
+14.0s 7 return self._load_extension(module_str)
+14.0s 8 File "/opt/conda/lib/python3.10/site-packages/IPython/core/extensions.py", line 91, in _load_extension
+14.0s 9 mod = import_module(module_str)
+14.0s 10 File "/opt/conda/lib/python3.10/importlib/__init__.py", line 126, in import_module
+14.0s 11 return _bootstrap._gcd_import(name[level:], package, level)
+14.0s 12 File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+14.0s 13 File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+14.0s 14 File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+14.0s 15 ModuleNotFoundError: No module named 'bq_stats'
+19.6s 16 /opt/conda/lib/python3.10/site-packages/scipy/__init__.py:146: UserWarning: A NumPy version >=1.16.5 and <1.23.0 is required for this version of SciPy (detected version 1.23.5
+19.6s 17 warnings.warn(f"A NumPy version >={np_minversion} and <{np_maxversion}"
+20.4s 18 starting...
+24.8s 19 /opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+24.8s 20 warnings.warn(
+24.8s 21 /opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=VGG16_Weights.IMAGENET1K_V1`. You can also use `weights=VGG16_Weights.DEFAULT` to get the most up-to-date weights.
+24.8s 22 warnings.warn(msg)
+25.8s 23 Downloading: "https://download.pytorch.org/models/vgg16-397923af.pth" to /root/.cache/torch/hub/checkpoints/vgg16-397923af.pth
+27.9s 24 0%|          | 0.00/528M [00:00<?, ?B/s]  1%|          | 5.02M/528M [00:00<00:10, 52.6MB/s]  7%|▋         | 36.3M/528M [00:00<00:02, 214MB/s]  13%|█▎        | 67.6M/528M [00:00<00:01, 267MB/s] 19%|█▉        | 100M/528M [00:00<00:01, 296MB/s]  25%|██▌       | 133M/528M [00:00<00:01, 312MB/s] 31%|███       | 163M/528M [00:00<00:01, 315MB/s] 37%|███▋      | 195M/528M [00:00<00:01, 323MB/s] 43%|████▎     | 226M/528M [00:00<00:01, 295MB/s] 49%|████▉     | 258M/528M [00:00<00:00, 307MB/s] 55%|█████▍    | 290M/528M [00:01<00:00, 314MB/s] 61%|██████    | 322M/528M [00:01<00:00, 320MB/s] 67%|██████▋   | 354M/528M [00:01<00:00, 325MB/s] 73%|███████▎  | 386M/528M [00:01<00:00, 328MB/s] 79%|███████▉  | 417M/528M [00:01<00:00, 327MB/s] 85%|████████▌ | 449M/528M [00:01<00:00, 330MB/s] 91%|█████████ | 481M/528M [00:01<00:00, 331MB/s] 97%|█████████▋| 513M/528M [00:01<00:00, 333MB/s]100%|██████████| 528M/528M [00:01<00:00, 311MB/s]
+218.3s 25 Model1_Predictions  Model1_Actual_Gender
+218.3s 26 0                       1                     1
+218.3s 27 1                       1                     1
+218.3s 28 2                       0                     0
+218.3s 29 3                       1                     1
+218.3s 30 4                       0                     0
+218.3s 31 ...                   ...                   ...
+218.3s 32 13538                   0                     0
+218.3s 33 13539                   1                     1
+218.3s 34 13540                   0                     0
+218.3s 35 13541                   1                     1
+218.3s 36 13542                   1                     1
+218.3s 37 
+218.3s 38 [13543 rows x 2 columns]
+219.6s 39 /opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+219.6s 40 warnings.warn(
+219.6s 41 /opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet34_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet34_Weights.DEFAULT` to get the most up-to-date weights.
+219.6s 42 warnings.warn(msg)
+219.9s 43 Downloading: "https://download.pytorch.org/models/resnet34-b627a593.pth" to /root/.cache/torch/hub/checkpoints/resnet34-b627a593.pth
+220.3s 44 0%|          | 0.00/83.3M [00:00<?, ?B/s] 10%|█         | 8.48M/83.3M [00:00<00:00, 88.9MB/s] 41%|████      | 34.2M/83.3M [00:00<00:00, 195MB/s]  72%|███████▏  | 59.6M/83.3M [00:00<00:00, 228MB/s]100%|██████████| 83.3M/83.3M [00:00<00:00, 220MB/s]
+330.5s 45 Model2_Predictions  Model2_Actual_Gender
+330.5s 46 0                       1                     1
+330.5s 47 1                       1                     1
+330.5s 48 2                       0                     0
+330.5s 49 3                       1                     1
+330.5s 50 4                       1                     0
+330.5s 51 ...                   ...                   ...
+330.5s 52 13538                   0                     0
+330.5s 53 13539                   1                     1
+330.5s 54 13540                   0                     0
+330.5s 55 13541                   1                     1
+330.5s 56 13542                   1                     1
+330.5s 57 
+330.5s 58 [13543 rows x 2 columns]
+331.7s 59 /opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+331.7s 60 warnings.warn(
+331.7s 61 /opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=EfficientNet_B0_Weights.IMAGENET1K_V1`. You can also use `weights=EfficientNet_B0_Weights.DEFAULT` to get the most up-to-date weights.
+331.7s 62 warnings.warn(msg)
+331.7s 63 Downloading: "https://download.pytorch.org/models/efficientnet_b0_rwightman-3dd342df.pth" to /root/.cache/torch/hub/checkpoints/efficientnet_b0_rwightman-3dd342df.pth
+331.9s 64 0%|          | 0.00/20.5M [00:00<?, ?B/s] 25%|██▌       | 5.19M/20.5M [00:00<00:00, 54.4MB/s]100%|██████████| 20.5M/20.5M [00:00<00:00, 133MB/s]
+501.6s 65 Model3_Predictions  Model3_Actual_Gender
+501.6s 66 0                       1                     1
+501.6s 67 1                       1                     1
+501.6s 68 2                       0                     0
+501.6s 69 3                       1                     1
+501.6s 70 4                       0                     0
+501.6s 71 ...                   ...                   ...
+501.6s 72 13538                   0                     0
+501.6s 73 13539                   1                     1
+501.6s 74 13540                   0                     0
+501.6s 75 13541                   1                     1
+501.6s 76 13542                   1                     1
+501.6s 77 
+501.6s 78 [13543 rows x 2 columns]
+502.3s 79 /opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+502.3s 80 warnings.warn(
+502.3s 81 /opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=DenseNet121_Weights.IMAGENET1K_V1`. You can also use `weights=DenseNet121_Weights.DEFAULT` to get the most up-to-date weights.
+502.3s 82 warnings.warn(msg)
+502.3s 83 Downloading: "https://download.pytorch.org/models/densenet121-a639ec97.pth" to /root/.cache/torch/hub/checkpoints/densenet121-a639ec97.pth
+502.5s 84 0%|          | 0.00/30.8M [00:00<?, ?B/s] 27%|██▋       | 8.38M/30.8M [00:00<00:00, 87.9MB/s]100%|██████████| 30.8M/30.8M [00:00<00:00, 171MB/s]
+762.7s 85 Model4_Predictions  Model4_Actual_Gender
+762.7s 86 0                       1                     1
+762.7s 87 1                       1                     1
+762.7s 88 2                       0                     0
+762.7s 89 3                       1                     1
+762.7s 90 4                       0                     0
+762.7s 91 ...                   ...                   ...
+762.7s 92 13538                   0                     0
+762.7s 93 13539                   1                     1
+762.7s 94 13540                   0                     0
+762.7s 95 13541                   1                     1
+762.7s 96 13542                   1                     1
+762.7s 97 
+762.7s 98 [13543 rows x 2 columns]
+762.8s 99 True_Gender_Label  Model1_Predictions  Model2_Predictions  \
+762.8s 100 0                      1                   1                   1
+762.8s 101 1                      1                   1                   1
+762.8s 102 2                      0                   0                   0
+762.8s 103 3                      1                   1                   1
+762.8s 104 4                      0                   0                   1
+762.8s 105 ...                  ...                 ...                 ...
+762.8s 106 13538                  0                   0                   0
+762.8s 107 13539                  1                   1                   1
+762.8s 108 13540                  0                   0                   0
+762.8s 109 13541                  1                   1                   1
+762.8s 110 13542                  1                   1                   1
+762.8s 111 
+762.8s 112 Model3_Predictions  Model4_Predictions
+762.8s 113 0                       1                   1
+762.8s 114 1                       1                   1
+762.8s 115 2                       0                   0
+762.8s 116 3                       1                   1
+762.8s 117 4                       0                   0
+762.8s 118 ...                   ...                 ...
+762.8s 119 13538                   0                   0
+762.8s 120 13539                   1                   1
+762.8s 121 13540                   0                   0
+762.8s 122 13541                   1                   1
+762.8s 123 13542                   1                   1
+762.8s 124 
+762.8s 125 [13543 rows x 5 columns]
+763.3s 126 1.2.2
+763.3s 127 Trained age meta model saved to /kaggle/working/gender_meta_model.pkl
+763.3s 128 Accuracy on Evaluation Data: 0.9918789221114802
+768.5s 129 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+768.5s 130 warn(
+768.5s 131 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+768.5s 132 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+768.9s 133 [NbConvertApp] Writing 37140 bytes to __notebook__.ipynb
+770.6s 134 /opt/conda/lib/python3.10/site-packages/traitlets/traitlets.py:2930: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+770.6s 135 warn(
+770.6s 136 [NbConvertApp] WARNING | Config option `kernel_spec_manager_class` not recognized by `NbConvertApp`.
+770.6s 137 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+771.6s 138 [NbConvertApp] Writing 354687 bytes to __results__.html
